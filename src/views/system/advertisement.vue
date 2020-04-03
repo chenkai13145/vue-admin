@@ -1,0 +1,82 @@
+<template>
+    <div class="advertisement">
+        
+        <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+        v
+          <div>
+            首页轮播广告
+        </div>
+
+          <div>
+            首页轮播广告
+        </div>
+
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+        v
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+        <var>v</var>
+        v
+
+          <div>
+            首页轮播广告
+        </div>v
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+          <div>
+            首页轮播广告
+        </div>
+
+    </div>
+</template>
